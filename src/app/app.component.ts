@@ -18,7 +18,8 @@ export class AppComponent implements OnInit {
       firstName: '',
       lastName: '',
       birthYear: '',
-      deathYear: ''
+      deathYear: '',
+      comment: ''
     });
   }
 
